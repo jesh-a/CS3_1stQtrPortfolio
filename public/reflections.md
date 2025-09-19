@@ -8,11 +8,11 @@
 5. **Loops** -- Loops are programs that allows a certain code to run while a specific condition is true. It means it will keep loopping until the condition is true, if there is no achievable condition, there will be an infinite loop.
 
 ### List at least 5 topics that you know and can describe but needs further practice/discussion and why.  The why should be per topic listed.  
-1. **Inserting outputs in HTML elements** -- Case-sensitive, displays outputs with HTML element. I don't quite understand how the codes work as the explanations for them are confusing.
+1. **Inserting outputs in HTML elements** -- Has a syntax of document.getElementById("NN").innerHTML. Case-sensitive, displays outputs with HTML element. I don't quite understand how the codes work as the explanations for them are confusing.
 2. **Event handlers** -- Detects events that triggers calls with JavaScript. I don't quite get how they're used, though I have tried and experimented with them, I still can't seem to properly get it.
 3. **Nested Loops** -- A loop inside another loop. I don't really understand how it's done nor how it really works.
-4. 
-5. 
+4. **Logical Operators** -- Conditional operations that will output either true or false. This is confusing for me as I don't always understand what would output; if a condition with the && or || operators counts as true or false.
+5. **Declaring Functions** -- Usually used to calculate or compute something and return a value. It is difficult to determine where to place certain blocks of code in, what to use and declare, etc.
 
 ### Describe on what will be your plan of action in order to help yourself in understanding further the topics listed on the second items.
 1. Practicing and experimenting with these blocks of codes or codes in order to adapt and understand each of their purposes in my program.
@@ -20,8 +20,11 @@
 ### In the activities that were done in class, list at least two that you think were effective and at least two that you think not effective in helping you understand topics in our course and why?
 
 > Effective 
-1. The graded coding activities -- Great for practice and understantding how different codes and programs work.
-2. 
+1. The graded coding activities - Great for practice and understantding how different codes and programs work.
+2. The small bonuses/non graded activities - Great for practice and trying out codes, it's a goood way to experiment and improve knowledge on these things.
+3. Debugging activities - Great way to enhance pattern recognition, understand syntax, and operators.
+4. Objectives  - Good for memorizing and understanding terms and understanding how codes work and what they output. (I just happen to be bad at this...)
+
 > Not Effective
-1. 
-2. 
+1. N/A (Instead of adding two, I wrote an extra two in effective to make up for my lack of answers here)
+2. N/A
